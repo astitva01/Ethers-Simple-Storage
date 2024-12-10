@@ -1,9 +1,5 @@
 # Ethers Simple Storage
 
-This is part of the FreeCodeCamp Solidity & Javascript Blockchain Course.
-
-Video Link : _[⌨️ (05:30:42) Lesson 5: Ethers.js Simple Storage](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=19842s)_
-
 # Getting Started
 
 ## Requirements
@@ -52,7 +48,9 @@ RPC_URL=http://0.0.0.0:7545
 
 `.env` Example:
 
+```
 PRIVATE_KEY=11ee3108a03081fe260ecdc106554d09d9d1209bcafd46942b10e02943effc4a
+```
 
 4. Compile your code
 
